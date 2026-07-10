@@ -1,0 +1,6 @@
+{
+  "name": "AI Business OS",
+  "description": "A complete, production-ready full-stack SaaS workspace automating GST compliance billing, smart expense management, customer CRM pipelines, and AI marketing content authoring.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
